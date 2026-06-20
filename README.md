@@ -10,12 +10,7 @@ Web Assessment 1 - 2026
     <title>My page title</title>
     <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Sonsie+One" rel="stylesheet" type="text/css">
 
-    <style>
-      :root {
-        --base-font-color: rgb(131,148,150);
-        --secondary-font-color: rgb(88,110,117);
-        --emphasised-font: rgb(147,161,161);
-
+  
         --c-background-color: rgb(0, 43, 54);
         --c-background-highlights: rgb(7, 54, 66);
 
